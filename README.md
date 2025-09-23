@@ -29,4 +29,4 @@
 - [Maria Nikitina](https://github.com/NikitinaMaria)
 - [Petr Babkin](https://github.com/petr-parker)
 - [Anastasia Voznyuk](https://github.com/natriistorm)
-- [Alexandr Shestakov](https://github.com)
+- [Alexandr Shestakov](https://github.com/alshestt)
