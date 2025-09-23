@@ -18,24 +18,6 @@ Welcome to Kalman filter and his friends!
    
    blogpost.rst
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Get Started:
-   
-   installation.rst
-
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Packages:
-
-   filters.rst
-   extended.rst
-   unscented.rst
-   vkf.rst
-   dkf.rst
-   gaussian.rst
-
 
 Indices and tables
 ==================
