@@ -1,5 +1,5 @@
 <div align="center">  
-    <h1> ODE with LLMs and Solvers </h1>
+    <h1> LLM для решения задач, использующих разложение по базису </h1>
 </div>
 
 
@@ -13,7 +13,7 @@
 <table>
     <tr>
         <td align="left"> <b> Title </b> </td>
-        <td> ODE with LLMs and Solvers </td>
+        <td> LLM для решения задач, использующих разложение по базису </td>
     </tr>
     <tr>
         <td align="left"> <b> Authors </b> </td>
@@ -21,10 +21,12 @@
     </tr>
 </table>
 
-## 💡 Description
+## 💡 Описание проекта
+
+Проект делается в рамках курса Foundation models for spatial-time series 2025. 
 
 
-## Authors
+## Участники проекта
 - [Matvei Kreinin](https://github.com/kreininmv)
 - [Maria Nikitina](https://github.com/NikitinaMaria)
 - [Petr Babkin](https://github.com/petr-parker)
