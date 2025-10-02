@@ -29,6 +29,7 @@
     
     2. По известным {\phi_k} и каким-то граничные условия с помощью солвера получить f = \sum_i c_i * \phi_i
 
+С более подробным описанием задачи можно ознакомится в файле [mathematical_problem_statement.pdf](mathematical_problem_statement.pdf).
 
 ## Участники проекта
 - [Matvei Kreinin](https://github.com/kreininmv)
